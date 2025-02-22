@@ -1,1 +1,1 @@
-# FinQ-A
+# financial_rag_project
