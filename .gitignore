@@ -1,0 +1,9 @@
+# Ignore FAISS index (rebuilds dynamically)
+faiss_store/
+
+# Ignore API keys (use Streamlit Secrets instead)
+.env
+
+# Ignore unnecessary logs or cache
+*.log
+__pycache__/
