@@ -1,0 +1,2 @@
+extracted_sec_text_test/Pepsico_Q2 2023.txt
+extracted_sec_text_test/Tesla_Q4 2023.txt
